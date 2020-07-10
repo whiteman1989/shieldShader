@@ -1,4 +1,4 @@
-﻿Shader "CookbookShaders/Field" {
+﻿Shader "FX/Field" {
 	Properties {
 		_EmissiveColor("Emissive Color", Color) = (1,1,1,1)
 		_ShieldColor("Shield Color", Color) = (1,1,1,1)
